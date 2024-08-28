@@ -1,5 +1,7 @@
 [![](https://poggit.pmmp.io/shield.state/AntiQuery)](https://poggit.pmmp.io/p/AntiQuery)
 <a href="https://poggit.pmmp.io/p/AntiQuery"><img src="https://poggit.pmmp.io/shield.state/AntiQuery"></a>
+[![](https://poggit.pmmp.io/shield.api/AntiQuery)](https://poggit.pmmp.io/p/AntiQuery)
+<a href="https://poggit.pmmp.io/p/AntiQuery"><img src="https://poggit.pmmp.io/shield.api/AntiQuery"></a>
 
 This plugin was made to block "query" query from server monitoring sites to prohibit querying of pocketmine plugins, currently the code is in pocketmine 5.0.0 +
 
