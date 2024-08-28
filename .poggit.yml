@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/kaio200816/AntiQuery
+build-by-default: true
+branches:
+- main
+projects:
+  AntiQuery:
+    path: ""
+...
